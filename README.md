@@ -1,5 +1,5 @@
 Sistemas Operativos Avanzados
-Trabajo Práctico Sistemas Embebidos, Android Y HPC.
+Sistemas Embebidos, Android Y HPC.
 
 Integrantes:
 
